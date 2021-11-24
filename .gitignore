@@ -1,10 +1,23 @@
+# Python
 *.pyc
 *~
-/.vscode
 __pycache__
+
+# Env
+.env
+envstorytime/
+venv/
+
+# Database
 db.sqlite3
-/static
-.DS_store
+
+# Static folder at project root
+/static/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
 
 #Template
 startbootstrap-grayscale-gh-pages.zip
