@@ -51,3 +51,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2019-2021 Nichole Fay Sullivan - Adventure Scientist. Code released under the [GNU GENERAL PUBLIC LICENSE](https://github.com/colee222/NFS-Story-Time/blob/main/LICENSE) license.
+
+## Contact
+
+Questions, Comments, or Job Offers? Email: [nfsulli@gmail.com](nfsulli@gmail.com)
