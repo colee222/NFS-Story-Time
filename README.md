@@ -36,9 +36,9 @@ Have a bug or an issue with the site? [Open a new issue](https://github.com/cole
 
 [Nichole Sullivan](https://colee222.github.io/NFS-Adv-Sci/) is an *Adventure Scientist*, a unique self identification that captures the willingness to try new things, push boundaries, and say yes, with a passion for experimentation, observation, and learning.
 
-* https://colee222.github.io/NFS-Adv-Sci/
-* https://www.linkedin.com/in/nicholesullivan
-* https://scholar.google.com/citations?user=XphOlooAAAAJ&hl=en
+* [Web Site](https://colee222.github.io/NFS-Adv-Sci/)
+* [LinkedIn](https://www.linkedin.com/in/nicholesullivan)
+* [Google Scholar](https://scholar.google.com/citations?user=XphOlooAAAAJ&hl=en)
 
 ### Start Bootstrap
 
