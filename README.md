@@ -28,7 +28,7 @@ Deployed on [pythonanywhere](https://www.pythonanywhere.com).
 
 ## Bugs and Issues
 
-Have a bug or an issue with the site? [Open a new issue](https://github.com/colee222/NFS-Story-Time/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/grayscale/).
+Have a bug or an issue with the site? [Open a new issue](https://github.com/colee222/NFS-Story-Time/issues) here on GitHub.
 
 ## About
 
