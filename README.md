@@ -1,9 +1,9 @@
 # NFS-Story-Time
-Story Time is a web page for the collection of scary stories written and narriated by the Sullivan Sisters.
+Story Time is a web page for the collection of scary stories written and narrated by the Sullivan Sisters.
 
 It utilizes a one page HTML theme [Grayscale](http://startbootstrap.com/template-overviews/grayscale/) for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-The theme was modifed and deployed with Django framework written in Python. Initally deplpyed using the [Django Girls](https://djangogirls.org/en/) tutorial.
+The theme was modified and deployed with Django framework written in Python. Initially deployed using the [Django Girls](https://djangogirls.org/en/) tutorial.
 
 Deployed on [pythonanywhere](https://www.pythonanywhere.com).
 
